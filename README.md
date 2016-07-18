@@ -8,4 +8,4 @@
  
 # Demo
 
--[Click here](http://itechnospot.com/social_login/google/) for demo
+-[Click here](http://itechnospot.com/bhargav_data/login_model/) for demo
