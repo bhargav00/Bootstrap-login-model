@@ -6,6 +6,3 @@
 # Instalation
 - Directly run index.html file in any Browser
  
-# Demo
-
--[Click here](http://itechnospot.com/bhargav_data/login_model/) for demo
